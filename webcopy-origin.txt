@@ -1,0 +1,64 @@
+Uri: https://fonts.googleapis.com/css2?display=swap&family=Work+Sans:ital,wght@0,500;0,700;1,500;1,700&family=Roboto+Slab:ital,wght@0,400;0,700;1,400;1,700&family=Rubik+Mono+One:ital,wght@0,400;1,400&family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAOW9.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAOW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB-W9.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB-W9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPQw.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPQw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2PQw.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2PQw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubikmonoone/v18/UqyJK8kPP3hjw6ANTdfRk9YSN-8w.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\s\rubikmonoone\v18\UqyJK8kPP3hjw6ANTdfRk9YSN-8w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7GsJow.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7GsJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWwJow.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\s\worksans\v19\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWwJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXNig.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig.ttf
+Content Type: font/ttf
+
+Uri: https://justarock.lol/
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\index.htm
+Content Type: text/html
+
+Uri: https://justarock.lol/assets/images/image01.png?v=3f3f8fbb
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\assets\images\image01.png
+Content Type: image/png
+
+Uri: https://justarock.lol/assets/images/image06.jpg?v=3f3f8fbb
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\assets\images\image06.jpg
+Content Type: image/jpeg
+
+Uri: https://justarock.lol/assets/images/image07.jpg?v=3f3f8fbb
+File Name: C:\Users\박진호\Desktop\사이트복제\justarock.lol\assets\images\image07.jpg
+Content Type: image/jpeg
+
